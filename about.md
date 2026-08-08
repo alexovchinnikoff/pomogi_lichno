@@ -38,7 +38,7 @@
   
 **Документация**
   
-[Ссылка на тестовую документацию](https://docs.google.com/spreadsheets/d/1WFUPZzAfGqAn6aaioGALJ-xFQ54RHz5_m1MCYivbEwk/edit?usp=drive_link)
+[Ссылка на тестовую документацию по запросу]($https://docs.google.com/spreadsheets/d/1WFUPZzAfGqAn6aaioGALJ-xFQ54RHz5_m1MCYivbEwk/edit?usp=drive_link)
 
   
 [Ссылка на презентацию](https://docs.google.com/presentation/d/1--YShjPdAhAK2fMyV408OxuX5_NYQB4tQfkyvdmEhqw/edit?usp=drive_link)
