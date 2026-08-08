@@ -41,10 +41,10 @@
 [Ссылка на тестовую документацию по запросу]($https://docs.google.com/spreadsheets/d/1WFUPZzAfGqAn6aaioGALJ-xFQ54RHz5_m1MCYivbEwk/edit?usp=drive_link)
 
   
-[Ссылка на презентацию](https://docs.google.com/presentation/d/1--YShjPdAhAK2fMyV408OxuX5_NYQB4tQfkyvdmEhqw/edit?usp=drive_link)
+[Ссылка на презентацию по запросу]($https://docs.google.com/presentation/d/1--YShjPdAhAK2fMyV408OxuX5_NYQB4tQfkyvdmEhqw/edit?usp=drive_link)
 
   
-[Ссылка на Followup](https://docs.google.com/document/d/1FudT_7gmgg_FNBxAYgcUt0Lz4cihgsaj/edit?usp=drive_link&ouid=104642614711975961739&rtpof=true&sd=true)
+[Ссылка на Followup по запросу]($https://docs.google.com/document/d/1FudT_7gmgg_FNBxAYgcUt0Lz4cihgsaj/edit?usp=drive_link&ouid=104642614711975961739&rtpof=true&sd=true)
 
   
 **Баги**
